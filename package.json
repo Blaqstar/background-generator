@@ -1,0 +1,20 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background Generator Site",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaqstar/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blaqstar/background-generator/issues"
+  },
+  "homepage": "https://github.com/Blaqstar/background-generator#readme",
+  "dependencies": {}
+}

@@ -4,7 +4,7 @@
 ## Description
 a web app that allows you to choose your color and make cool gradient colors
 
-###Installation Instructions
+### Installation Instructions
 
 - Clone repository
 ```

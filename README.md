@@ -7,7 +7,7 @@ a web app that allows you to choose your color and make cool gradient colors
 ### Installation Instructions
 
 - Clone repository
-```
+```sh
 git clone git@github.com:dsawebdev/background-generator.git
 ```
 - CD into Directory 
